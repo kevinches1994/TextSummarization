@@ -1,0 +1,8 @@
+openai
+langchain-openai
+tiktoken
+chromadb
+langchain
+pypdf==4.0.1
+
+notebook
